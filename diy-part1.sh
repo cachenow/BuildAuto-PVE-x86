@@ -12,3 +12,4 @@
 
 # Add a feed source
 echo 'src-git kwrt https://github.com/kiddin9/kwrt-packages' >>feeds.conf.default
+echo 'src-git pve-autocore https://github.com/cachenow/pve-openwrt-autocore' >>feeds.conf.default
